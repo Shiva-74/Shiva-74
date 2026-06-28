@@ -1,6 +1,6 @@
 # 💫 About Me:
 ###
-- 🔭 I’m currently working on **AIML Projects**
+- 🔭 I’m currently working on **AIML Full Stack Projects**
   
 - 🌱 I’m currently learning **AI Tools, Devops**
 
