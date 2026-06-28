@@ -1,5 +1,5 @@
 # 💫 About Me:
-Information Science undergraduate with strong foundations in Artificial Intelligence, Machine Learning, and Object-Oriented Programming.<br>Experienced in building end-to-end AI systems using Python, SQL, Computer Vision, NLP, and LLMs, with hands-on experience in<br>scalable model development, deployment, and cloud technologies. Passionate about solving real-world problems through intelligent<br>software systems.
+Tech Entusiast with strong foundations in Artificial Intelligence, Machine Learning, and Object-Oriented Programming.<br>Experienced in building end-to-end AI systems using Python, SQL, Computer Vision, NLP, and LLMs, with hands-on experience in<br>scalable model development, deployment, and cloud technologies. Passionate about solving real-world problems through intelligent<br>software systems.
 
 
 ## 🌐 Socials:
